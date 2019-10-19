@@ -3,7 +3,7 @@
 NASA Space Apps Challenge KUSIHMOTO 2019に関連する情報を適宜ここに載せていきます。情報の追加を行ったら、随時お知らせします。
 
 ## 参照するドキュメント
-### [219年チャレンジ要約集](https://blog.spaceapps.jp/entry/2019/10/05/000059)
+### [2019年チャレンジ要約集](https://blog.spaceapps.jp/entry/2019/10/05/000059)
 今年のSpace Apps Challengeで開発するもののテーマ・ストーリーです。これに合致していることが審査基準のひとつになります。Global審査に進むためには、この中のいずれかに合致してなければなりません。
 
 ### [NASA Space Apps Challenge Slackワークスペース](https://join.slack.com/t/spaceappsjapan2019/shared_invite/enQtNjg4ODg5Mzg2MDIzLThjMWNlMTNlMTkxMzg3MTZkZTQyNDQ1ODBhMTRhZDQ1M2U5OWQ3ZGMyZDc4MmUzOWI2YzlhNjJiZmRhZGQ3NmM)
