@@ -9,6 +9,9 @@ NASA Space Apps Challenge KUSIHMOTO 2019に関連する情報を適宜ここに�
 ### [NASA Space Apps Challenge Slackワークスペース](https://join.slack.com/t/spaceappsjapan2019/shared_invite/enQtNjg4ODg5Mzg2MDIzLThjMWNlMTNlMTkxMzg3MTZkZTQyNDQ1ODBhMTRhZDQ1M2U5OWQ3ZGMyZDc4MmUzOWI2YzlhNjJiZmRhZGQ3NmM)
 日本全国のSpace Apps Challenge参加者のためのSlackワークスペースです。NASAのデータに詳しい方も参加しているので、ぜひ参加しておいてください。Space Apps Challengeに関係する質問全般も受け付けています。
 
+### [NASA Open Data](https://data.nasa.gov)
+NASAが公開するオープンデータのポータルサイト
+
 ## NASA公式エントリー方法
 今回の参加者・参加チームは、全員NASAのサイトからエントリーしていただきます。手順については、追って説明を書きます。
 
