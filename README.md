@@ -15,7 +15,8 @@ NASAが公開するオープンデータのポータルサイト
 ## NASA公式エントリー方法
 
 1. [NASA Space Apps Challenge公式サイト](https://spaceappschallenge.org)にアクセスする。
-2. 右上のSIGN UPをクリックし、アカウント登録をする。入力する内容は以下の通り。
+2. 右上のSIGN UPをクリックし、アカウント登録をする。入力する内容は以下の通り。  
+![登録画面](signup.png)
 	- Full Name（本名）
 	- Username（アカウント名）
 	- E-Mail（メールアドレス）
